@@ -10,7 +10,7 @@ const styles = {
 const App = () => (
   <div style={styles}>
     <Hello name="CodeSandbox" />
-    <h2>Start edistinsgs to see some magic happen {'\u2728'}</h2>
+    <h2>Start edistinsgssdf to see some magic happen {'\u2728'}</h2>
   </div>
 );
 
